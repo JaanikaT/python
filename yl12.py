@@ -10,6 +10,7 @@
 # Muuda listi järjekord vastupidiseks
 # Sorteeri list ja väljasta
 # (jada, list, listi element, listi meetodid)
+# https://www.w3schools.com/python/python_lists.asp
 
 fruit = ["õun", "banaan", "ploom"]
 print(fruit)
